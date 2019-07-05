@@ -1,0 +1,26 @@
+{
+  "name": "launch-code-editor",
+  "description": "launch editor from node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Orange-C"
+  },
+  "bugs": {
+    "url": "https://github.com/Orange-C/launch-code-editor/issues"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "shell-quote": "^1.6.1"
+  },
+  "homepage": "https://github.com/Orange-C/launch-code-editor",
+  "keywords": [
+    "launch",
+    "editor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Orange-C/launch-code-editor"
+  },
+  "license": "MIT"
+}
