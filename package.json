@@ -1,8 +1,14 @@
 {
   "name": "launch-code-editor",
-  "description": "launch editor from node.js",
-  "version": "1.0.0",
-  "main": "index.js",
+  "description": "launch code editor from node.js",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "lint": "eslint --cache ./"
+  },
   "author": {
     "name": "Orange-C"
   },
@@ -22,5 +28,8 @@
     "type": "git",
     "url": "https://github.com/Orange-C/launch-code-editor"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
