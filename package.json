@@ -1,7 +1,7 @@
 {
   "name": "launch-code-editor",
   "description": "launch code editor from node.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "files": [
     "lib"
