@@ -4,11 +4,11 @@ Open file with line numbers in editor from Node.js.
 
 This package is forked from [launch-editor](https://github.com/yyx990803/launch-editor)
 
-support launch specified editor in process.
+support launching specified editor in process.
 
 ## Why
 
-Changed too much and deviated from the original design of `launch-editor`. So created this package to work out cases when you need launch specified editor in process
+Changed too much and deviated from the original design of `launch-editor`. So created this package to work out cases when you need to launch specified editor in process
 
 ## Usage
 
